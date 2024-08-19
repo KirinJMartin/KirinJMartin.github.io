@@ -25,7 +25,7 @@ author:
   name             : "Kirin J Martin"
   pronouns         : "they/them"
   bio              : "Lecturer of Mathematics" # Short biography for the left-hand sidebar
-  location         : "Iowa, US"
+  location         : "Ames, Iowa, US"
   employer         : "Iowa State University"
   uri              : # URL
   email            : "jmartin4@iastate.edu" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "KirinJMartin"
+  github           : # "KirinJMartin"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
